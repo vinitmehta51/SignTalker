@@ -30,7 +30,7 @@
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
             android:name="flutterEmbedding"
-            android:value="2" />
+            android:value="2"/>
     </application>
 </manifest>
 =======
@@ -65,7 +65,7 @@
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
             android:name="flutterEmbedding"
-            android:value="2" />
+            android:value="2"/>
     </application>
 </manifest>
 >>>>>>> fd699b3eb562cb1de173ff3d2ae1d0570de81b42
